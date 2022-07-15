@@ -1,5 +1,5 @@
 # Colon-Cancer-Classification
-A CNN model that classifies the different type of colon tissue images into 4 categories.
+A Deep Learning project where a CNN model is built that classifies colon tissue images into into 4 categories.
 
 4 categories:
 1. Cancer
